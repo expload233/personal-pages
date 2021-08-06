@@ -1,0 +1,1 @@
+document.querySelector('body').style="background-image:url('https://api.mtyqx.cn/api/random.php');background-attachment:fixed"
